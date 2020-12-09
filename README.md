@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple example steps.
 ### Install
 
 - Go to your preferred directory
-- Run `git clone https://github.com/TSHEPO-CLOUD/Rubylinters/tree/feature` command
+- Run `git clone https://github.com/TSHEPO-CLOUD/SQL_ZOO` command
 
 ## Built with
 
